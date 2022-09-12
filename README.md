@@ -35,3 +35,9 @@ This document contains a list of helpful resources for the Codess 2022 "Where to
 ## DSR's Links
 
 
+## Tash's Links
+
+- [MS Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/) (Free Training and MS Certs)
+- [MS Leap](https://www.microsoft.com/en-us/leap/) (Microsoft Traineeship) 
+- [Hikohiko te Uira](https://tuputoa.org.nz/hikohiko-te-uira/) (Support for our Māori & Pacific Students to upskill with MS Training and Certs)
+
