@@ -34,18 +34,15 @@ This document contains a list of helpful resources for the Codess 2022 "Where to
 
 ## DSR's Links
 
-<<<<<<< HEAD
 - [Degreed](https://degreed.com/) (Track your learning)
 - [Feed reader](https://feedly.com/) (RSS feed reader)
 - [GitHub Pages](https://pages.github.com/) (Create websites for your projects using GitHub)
 - Podcasts
   - [Azure Podcast](https://azpodcast.azurewebsites.net/)
-=======
 
 ## Tash's Links
 
 - [MS Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/) (Free Training and MS Certs)
-- [MS Leap](https://www.microsoft.com/en-us/leap/) (Microsoft Traineeship) 
+- [MS Leap](https://www.microsoft.com/en-us/leap/) (Microsoft Traineeship)
 - [Hikohiko te Uira](https://tuputoa.org.nz/hikohiko-te-uira/) (Support for our Māori & Pacific Students to upskill with MS Training and Certs)
 
->>>>>>> cdf6a44ad20f30b029882fd10ef83ad77fbbe6ab
