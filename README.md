@@ -37,12 +37,15 @@ This document contains a list of helpful resources for the Codess 2022 "Where to
 - [Degreed](https://degreed.com/) (Track your learning)
 - [Feed reader](https://feedly.com/) (RSS feed reader)
 - [GitHub Pages](https://pages.github.com/) (Create websites for your projects using GitHub)
-- Podcasts
-  - [Azure Podcast](https://azpodcast.azurewebsites.net/)
+- Podcasts (Use whatever Podcast service you like)
+  - [Azure Podcast](https://azpodcast.azurewebsites.net/) (All the news about Azure)
+  - [.NET Rocks](https://dotnetrocks.com/) (All the news about .NET and C#)
+  - So many more...
+- YouTube channels
+  - [Microsoft Reactor](https://www.youtube.com/channel/UCZ2wFwVz2UpIDD5pXbhOJFw) (Microsoft Reactor events)
 
 ## Tash's Links
 
 - [MS Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/) (Free Training and MS Certs)
 - [MS Leap](https://www.microsoft.com/en-us/leap/) (Microsoft Traineeship)
 - [Hikohiko te Uira](https://tuputoa.org.nz/hikohiko-te-uira/) (Support for our Māori & Pacific Students to upskill with MS Training and Certs)
-
