@@ -34,4 +34,8 @@ This document contains a list of helpful resources for the Codess 2022 "Where to
 
 ## DSR's Links
 
-
+- [Degreed](https://degreed.com/) (Track your learning)
+- [Feed reader](https://feedly.com/) (RSS feed reader)
+- [GitHub Pages](https://pages.github.com/) (Create websites for your projects using GitHub)
+- Podcasts
+  - [Azure Podcast](https://azpodcast.azurewebsites.net/)
